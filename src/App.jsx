@@ -125,8 +125,7 @@ function App() {
           className="grid"
           style={{
             display: "grid",
-            gridTemplateColumns: `repeat(${numRows},15px)`,
-            gridTemplateRows: `repeat(${numRows},15px)`,
+            gridTemplateColumns: `repeat(${numRows},22px)`,
           }}
         >
           {grid.map((rows, i) =>
@@ -134,8 +133,8 @@ function App() {
               <div
                 onClick={() => gridClickHandler(i, k)}
                 style={{
-                  width: 15,
-                  height: 15,
+                  width: 22,
+                  height: 22,
                   backgroundColor: grid[i][k] ? "black" : "#8B8C8C",
                   border: "solid 1px black",
                 }}
