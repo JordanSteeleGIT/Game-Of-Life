@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Game-Of-Life/static/css/main.e443bba2.chunk.css",
-    "main.js": "/Game-Of-Life/static/js/main.f6993247.chunk.js",
-    "main.js.map": "/Game-Of-Life/static/js/main.f6993247.chunk.js.map",
-    "runtime-main.js": "/Game-Of-Life/static/js/runtime-main.97e6b059.js",
-    "runtime-main.js.map": "/Game-Of-Life/static/js/runtime-main.97e6b059.js.map",
-    "static/js/2.93cbb466.chunk.js": "/Game-Of-Life/static/js/2.93cbb466.chunk.js",
-    "static/js/2.93cbb466.chunk.js.map": "/Game-Of-Life/static/js/2.93cbb466.chunk.js.map",
-    "static/js/3.9613d571.chunk.js": "/Game-Of-Life/static/js/3.9613d571.chunk.js",
-    "static/js/3.9613d571.chunk.js.map": "/Game-Of-Life/static/js/3.9613d571.chunk.js.map",
+    "main.js": "/Game-Of-Life/static/js/main.ef4377ad.chunk.js",
+    "main.js.map": "/Game-Of-Life/static/js/main.ef4377ad.chunk.js.map",
+    "runtime-main.js": "/Game-Of-Life/static/js/runtime-main.f6a8ea46.js",
+    "runtime-main.js.map": "/Game-Of-Life/static/js/runtime-main.f6a8ea46.js.map",
+    "static/js/2.0c4d8917.chunk.js": "/Game-Of-Life/static/js/2.0c4d8917.chunk.js",
+    "static/js/2.0c4d8917.chunk.js.map": "/Game-Of-Life/static/js/2.0c4d8917.chunk.js.map",
+    "static/js/3.56794810.chunk.js": "/Game-Of-Life/static/js/3.56794810.chunk.js",
+    "static/js/3.56794810.chunk.js.map": "/Game-Of-Life/static/js/3.56794810.chunk.js.map",
     "index.html": "/Game-Of-Life/index.html",
     "static/css/main.e443bba2.chunk.css.map": "/Game-Of-Life/static/css/main.e443bba2.chunk.css.map",
-    "static/js/2.93cbb466.chunk.js.LICENSE.txt": "/Game-Of-Life/static/js/2.93cbb466.chunk.js.LICENSE.txt"
+    "static/js/2.0c4d8917.chunk.js.LICENSE.txt": "/Game-Of-Life/static/js/2.0c4d8917.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.97e6b059.js",
-    "static/js/2.93cbb466.chunk.js",
+    "static/js/runtime-main.f6a8ea46.js",
+    "static/js/2.0c4d8917.chunk.js",
     "static/css/main.e443bba2.chunk.css",
-    "static/js/main.f6993247.chunk.js"
+    "static/js/main.ef4377ad.chunk.js"
   ]
 }
